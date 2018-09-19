@@ -16,5 +16,6 @@ Very simple webpack loader, which replace `dxxp` to `/deep/`.
 		preLoaders: {
 			css: 'css-deep-loader'
 		}
+	}
 }
 ````
