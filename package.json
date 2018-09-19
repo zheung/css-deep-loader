@@ -1,0 +1,18 @@
+{
+  "name": "css-deep-loader",
+  "version": "1.0.0",
+  "description": "Very simple webpack loader, which replace dxxp to /deep/.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zheung/css-deep-loader.git"
+  },
+  "author": "DanoR",
+  "license": "ISC"
+}
